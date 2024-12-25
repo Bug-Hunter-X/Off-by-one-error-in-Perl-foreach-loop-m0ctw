@@ -1,0 +1,1 @@
+This repository contains examples of a common off-by-one error in Perl foreach loops and its solution. The bug.pl file demonstrates the error, and the bugSolution.pl file provides a corrected version.
